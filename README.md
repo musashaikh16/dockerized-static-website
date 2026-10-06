@@ -25,7 +25,3 @@ dockerized-static-website/
 ├── Dockerfile
 ├── .dockerignore
 └── README.md
-
-## 🖥️ Application Preview
-
-![Dockerized Static Website](screenshot.png)
